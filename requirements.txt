@@ -2,3 +2,4 @@ scikit-learn
 pandas
 notebook
 seaborn
+statsmodels>=0.13.0
